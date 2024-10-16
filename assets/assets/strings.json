@@ -1,0 +1,11 @@
+{
+  "welcomeTitle": "Bienvenido",
+  "usernameLabel": "Usuario o Email",
+  "passwordLabel": "Contraseña",
+  "loginButton": "Iniciar Sesión",
+  "registerLink": "¿No tienes una cuenta? Regístrate",
+  "loginError": "Usuario o contraseña incorrectos",
+  "registerTitle": "Registro",
+  "emailLabel": "Email",
+  "registerButton": "Registrarse"
+}
